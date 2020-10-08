@@ -1,7 +1,7 @@
 # Git
 ## init
+## add
 ## comitt
 ## push
 ## pull
-## code
 
