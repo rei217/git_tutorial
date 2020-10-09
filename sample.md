@@ -6,3 +6,4 @@
 ## pull
 ## git diff
 ## git commit--amend
+## git marge
