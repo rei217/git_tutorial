@@ -7,3 +7,5 @@
 ## git diff
 ## git commit--amend
 ## git marge
+## confrict
+## pull_reqest
